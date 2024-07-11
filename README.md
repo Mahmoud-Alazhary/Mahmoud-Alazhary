@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Alazhary
 ========================================================================================================================================
 
-[](https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif)Backend Developer
+![](https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif)Backend Developer
 -----------------
 
 Electrical Engineering student with a keen interest in Software Engineering. Currently expanding my skills in both fields to build innovative and efficient solutions
