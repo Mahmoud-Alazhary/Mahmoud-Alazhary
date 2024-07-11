@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Alazhary
 ========================================================================================================================================
 
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" alt="Backend Developer" style="width: 1em; height: 1em; margin-right: 0.2em;">
-  Backend Developer
-</span>
+<img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" alt="Backend Developer" style="width: 1.5em; height: 1.5em; vertical-align: middle;"> Backend Developer
 
 -----------------
 
