@@ -8,7 +8,7 @@ Electrical Engineering student with a keen interest in Software Engineering. Cur
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [mahmoudalazhary2@gmail.com](mailto:mahmoudalazhary2@gmail.com)
-* 🚀  I'm currently working on ["Website security test" Website (SecureOctoShelters)](http://www.blankwebsite.com)
+* 🚀  I'm currently working on ["Website security test" Website (SecureOctoShelters)]
 * 🧠  I'm learning Databases, Nginx
 * 🤝  I'm open to collaborating on Projects
 
